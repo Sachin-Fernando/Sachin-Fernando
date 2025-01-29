@@ -1,4 +1,4 @@
-## Hi there, I'm Magage Sachin Dewinda Fernando! 👋
+## Hi there, I'm Sachin Fernando! 👋
 
 🚀 **DevOps Engineer | Cloud Enthusiast | AI Explorer**
 
@@ -6,7 +6,7 @@
 
 ### 🛠 About Me
 
-- 💻 **DevOps Engineer** with **4+ years** of experience in **AWS, Azure, Kubernetes, and CI/CD**.
+- 💻 **DevOps Engineer** with **2+ years** of experience in **AWS, Azure, Kubernetes, and CI/CD**.
 - ☁️ Expertise in **Cloud Infrastructure**, **Automation**, and **Container Orchestration**.
 - 🤖 Passionate about **AI & Machine Learning**, currently studying **BSc (Hons) Computing with Artificial Intelligence Technology** at **Northumbria University**.
 - 🛠 Skilled in **Linux Administration, Python Scripting, and Infrastructure as Code (IaC)**.
