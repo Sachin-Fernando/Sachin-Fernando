@@ -117,7 +117,7 @@ Designed infrastructure automation projects using Terraform, Kubernetes, GitHub 
 
 💻 GitHub: https://github.com/Sachin-Fernando
 
-📧 Email: your-email@example.com
+📧 Email: sachin.fernando.pro@gmail.com
 
 ---
 
